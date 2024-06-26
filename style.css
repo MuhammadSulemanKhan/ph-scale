@@ -1,0 +1,65 @@
+*{
+    margin: 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+body{
+    background-color: gray;
+}
+h1{
+    color: black;
+    background-color: white;
+    padding: 10px;
+    margin: 0px;
+    margin-top: 37px;
+}
+.zero{
+    background-color: blue;
+}
+.one{
+    background-color: pink;
+}
+.two{
+    background-color: rgb(226, 85, 109);
+}
+.three{
+    background-color: rgb(105, 19, 33);
+}
+.four{
+    background-color: rgb(184, 199, 100);
+}
+.five{
+    background-color: rgb(160, 65, 81);
+}
+.six{
+    background-color: rgb(77, 79, 173);
+}
+.seven{
+    background-color: pink;
+}
+.eight{
+    background-color: green;
+}
+.nine{
+    background-color: blue;
+}
+.ten{
+    background-color: blue;
+}
+
+.eleven{
+    background-color: blue;
+}
+
+.twelve{
+    background-color: blue;
+}
+
+.thirteen{
+    background-color: blue;
+}
+
+.fourteen{
+    background-color: blue;
+}
+
